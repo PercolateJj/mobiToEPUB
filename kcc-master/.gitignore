@@ -1,0 +1,10 @@
+*.pyc
+Pipfile
+Pipfile.lock
+setup.bat
+kindlecomicconverter/sentry.py
+other/windows/kindlegen.exe
+dist/
+build/
+KindleComicConverter.egg-info/
+.idea/
