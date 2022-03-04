@@ -1,8 +1,8 @@
 # mobiToEPUB
-This project is intend to convert mobi comic to epub for iPad, and depends on kindleunpack and kindle comic converter.
-这个项目用于个人将mobi格式的漫画转化为epub格式方便iPad阅读
+This script is intend to convert mobi comic to epub for iPad, and depends on kindleunpack and kindle comic converter.
+这个脚本用于个人将mobi格式的漫画转化为epub格式方便iPad阅读
 
-此项目依赖于
+此脚本依赖于
 * Python2&3.5+
 * kcc
 * kindleunpack及其依赖项
